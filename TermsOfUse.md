@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last Updated: December 26, 2024**
+**Last Updated: December 26, 2025**
 
 **TV Remote App**
 
