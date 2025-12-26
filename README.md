@@ -3,4 +3,5 @@
 You can also take a picture of your receipt and your items with categories.
 
 **Download iOS Application**
+https://apps.apple.com/in/app/tv-remote-control-pro/id6755223280
 
