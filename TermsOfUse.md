@@ -2,9 +2,9 @@
 
 **Last Updated: December 26, 2024**
 
-**Roku Remote App**
+**TV Remote App**
 
-These Terms of Use ("Terms") govern your use of the Roku Remote mobile application ("App" or "Service"), provided by Harshad Jadav.
+These Terms of Use ("Terms") govern your use of the TV Remote mobile application ("App" or "Service"), provided by Harshad Jadav.
 
 By downloading or using the App, you agree to be bound by these Terms.
 
