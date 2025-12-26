@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: December 26, 2024**
+**Last Updated: December 26, 2025**
 
 Harshad Jadav built the Roku Remote app as a freemium application. This Service is provided by Harshad Jadav and is intended for use as is.
 
